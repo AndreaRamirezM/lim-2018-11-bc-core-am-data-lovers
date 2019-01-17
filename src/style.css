@@ -102,16 +102,10 @@ header label:hover {
 
 /* ----------------- BANNER -----------------*/
 
-.banner {
+/* .banner {
     margin: 0px 25px 0 50px;
-    height: 400px;
     overflow: hidden;
-}
-
-video {
-    width: 80%;
-    margin-top: 0;
-}
+} */
 
 main .banner {
     margin-top: 0px;/* este al tope*/
